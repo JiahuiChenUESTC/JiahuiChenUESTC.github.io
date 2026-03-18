@@ -5,7 +5,7 @@ navbar_name: "Jiahui Chen"
 positions:
 - name: Associate Professor
 - name: University of Electronic Science and Technology of China
-  # logo: /assets/images/badges/uestc.png
+  logo: /assets/images/badges/uestc.png
 
 email: "chenjiahui@uestc.edu.cn"
 # cv_link: link-to-your-cv-file
