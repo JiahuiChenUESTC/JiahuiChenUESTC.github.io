@@ -18,5 +18,5 @@ authors:
   - Guolong Cui
   - Lingjiang Kong
 links:
-  Paper: https://ieeexplore.ieee.org/document/11456984
+  IEEE: https://ieeexplore.ieee.org/document/11456984
 ---
