@@ -20,16 +20,5 @@ authors:
 links:
   IEEE: https://ieeexplore.ieee.org/abstract/document/10919007/
   Scholar: https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Joint+Localization+of+LOS+and+NLOS+Targets+With+Clutter+Mitigation+via+Multipath+Exploitation+Radar&btnG=
-bibtex: |
-  @ARTICLE{10919007,
-    author={Chen, Jiahui and Yang, Xiaobo and Qiu, Chen and Zhu, Zihao and Wu, Peilun and Xu, Zihan and Guo, Shisheng and Cui, Guolong},
-    journal={IEEE Transactions on Radar Systems},
-    title={Joint Localization of LOS and NLOS Targets With Clutter Mitigation via Multipath Exploitation Radar},
-    year={2025},
-    volume={3},
-    pages={549-561},
-    doi={10.1109/TRS.2025.3550023}
-  }
 
-    
 ---
