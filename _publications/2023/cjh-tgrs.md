@@ -16,7 +16,7 @@ authors:
   - Guolong Cui
   - Lingjiang Kong
 links:
-  IEEE: [https://ieeexplore.ieee.org/abstract/document/10919007/](https://ieeexplore.ieee.org/abstract/document/10505314)
-  Scholar: [https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Joint+Localization+of+LOS+and+NLOS+Targets+With+Clutter+Mitigation+via+Multipath+Exploitation+Radar&btnG=](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Enhanced+3-D+Building+Layout+Tomographic+Imaging+via+Tensor+Approach&btnG=)
+  IEEE: https://ieeexplore.ieee.org/abstract/document/10505314
+  Scholar: https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=Enhanced+3-D+Building+Layout+Tomographic+Imaging+via+Tensor+Approach&btnG=
 
 ---
